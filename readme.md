@@ -2,9 +2,6 @@
 
 > A lightweight, fast and modern Windows utility to clean unnecessary files and free up disk space.
 
-![Platform](https://img.shields.io/badge/Platform-Windows-blue)
-![Language](https://img.shields.io/badge/Language-C%23-purple)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange)
 
 ---
